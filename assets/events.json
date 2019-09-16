@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Cultural",
+		"events": [
+			{
+				"name": "Viva La Vida",
+				"image": "fashion.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": ""
+			},
+			{
+				"name": "Shredded",
+				"image": "shred.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": "big"
+			},
+			{
+				"name": "The Whirl",
+				"image": "whirl.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": ""
+			}
+		]
+	},
+	{
+		"name": "Gaming",
+		"events": [
+			{
+				"name": "CS:GO",
+				"image": "go.jpg",
+				"descriptionFile": "cs-go.html",
+				"imageSize": "big"
+			},
+			{
+				"name": "FIFA 18",
+				"image": "fifa.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": ""
+			},
+			{
+				"name": "NFS",
+				"image": "nfs.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": "horizontal"
+			}
+		]
+	},
+	{
+		"name": "Technical",
+		"events": [
+			{
+				"name": "Fireball",
+				"image": "fireball.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": ""
+			},
+			{
+				"name": "Real Steel",
+				"image": "real_steel.jpg",
+				"descriptionFile": "someFile.html",
+				"imageSize": ""
+			}
+		]
+	}
+]
